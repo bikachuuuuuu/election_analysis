@@ -42,6 +42,6 @@ The winner of the election was:
 
 ## Election Audit Summary
 
-This project analyzed and audited voting data for 
+This project analyzed and audited voting data for The Colorado Board of Elections for one particular race.
 
-Using this code as a base code, the election commision can analyze future elections. 
+However, using this code as a base code, the election commision can analyze future elections. This can be done by modifying the loops for county_list and candidate_names. By modifying these two variables for the chosen race by it's county and candidates, the framework for this code can generate the same summary statistics.
