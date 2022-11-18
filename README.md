@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 There were 369,711 votes cast in the election.
 
- The results by were:
+ The results by county were:
 
 - Jefferson County had 10.5% of total votes, with 38,855 number of votes.
 - Denver County had 82.8% of total votes, with 306,055 number of votes.
@@ -32,13 +32,13 @@ The candidates:
 
 The candidate results were:
 
-- Charles Casper Stockham received 23.1% of the vote.
+- Charles Casper Stockham received 23.0% of the vote.
 - Diana DeGette received 73.8% of the vote.
 - Raymon Anthony Doane received 3.1% of the vote. 
 
 The winner of the election was:
 
-- Diane DeGette, who received 73.8% of the vote, with 272,892 number of votes.
+- Diane DeGette
 
 ## Election Audit Summary
 
